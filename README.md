@@ -1,7 +1,7 @@
 # vue3-antvX6-draggable
 
-基于 vue3.x 和 antv X6 制作一款可视化拖拽组件 具有高扩展性 自定义组件等强大功能；
-在线体验：https://aisuda.github.io/amis-editor-demo
+1. 基于 vue3.x 和 antv X6 制作一款可视化拖拽组件 具有高扩展性 自定义组件等强大功能
+2. 在线体验：https://aisuda.github.io/amis-editor-demo
 
 ## 本地运行这个项目
 
