@@ -11,3 +11,11 @@
 ## 相关文档
 
 x6: https://x6.antv.antgroup.com/
+
+## 沟通交流
+
+<img src="https://github.com/cuizeyu/vue3-antvX6-draggable/blob/main/src/assets/vx.jpg" width="200" height="300"/>
+
+## 作者公众号
+
+<img src="https://github.com/cuizeyu/vue3-antvX6-draggable/blob/main/src/assets/gzh.jpg" width="200" height="200"/>
