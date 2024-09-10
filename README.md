@@ -11,5 +11,3 @@
 ## 相关文档
 
 x6: https://x6.antv.antgroup.com/
-
-https://cuizeyu.github.io/vue3-antvX6-draggable
