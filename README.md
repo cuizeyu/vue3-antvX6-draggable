@@ -1,7 +1,7 @@
 # vue3-antvX6-draggable
 
 1. 基于 vue3.x 和 antv X6 制作一款可视化拖拽组件 具有高扩展性 自定义组件等强大功能
-2. 在线体验：https://cuizeyu.github.io/vue3-antvX6-draggable/
+2. 在线体验：http://www.cuizeyu.cn/vue3-antvX6-draggable/
 
 ## 本地运行这个项目(node18 以上)
 
